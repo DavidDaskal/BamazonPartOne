@@ -1,5 +1,7 @@
 # BamazonPartOne
 
+VIEW IN RAW FORMAT
+
 //From TERMINAL
 
 Davids-MBP:bamazon DaskalDV$ node bamazon.js
