@@ -30,7 +30,7 @@ mysql> select * from products;
 |      1 | FenderStrat  | Guitars        |   650 |            12 |
 |      2 | Epiphone     | Guitars        |   850 |             8 |
 |      3 | Rickenbacker | Guitars        |   450 |            11 |
-|      4 | MarrJaguar   | Guitars        |  2650 |             0 |--> decreased by 2
+|      4 | MarrJaguar   | Guitars        |  2650 |             0 |--> decreased by 2 quantities
 |      5 | Iphone       | CellPhones     |   600 |             6 |
 |      6 | Samsungs6    | CellPhones     |   650 |             4 |
 |      7 | Macbook      | Laptops        |  1450 |             5 |
